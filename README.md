@@ -1,5 +1,5 @@
 # ML-Laboratory-Experiments
-Artificial intelligence is the simulation of human intelligence processes by machines, especially computer systems. Specific applications of AI include expert systems, natural language processing, speech recognition and machine vision.
+
 IMPLEMENT AND DEMONSTRATETHE FIND-S ALGORITHM FOR FINDING THE MOST SPECIFIC HYPOTHESIS BASED ON A GIVEN SET OF TRAINING DATA SAMPLES. READ THE TRAINING DATA FROM A .CSV FILE.
 
 FOR A GIVEN SET OF TRAINING DATA EXAMPLES STORED IN A .CSV FILE, IMPLEMENT AND DEMONSTRATE THE CANDIDATE-ELIMINATION ALGORITHMTO OUTPUT A DESCRIPTION OF THE SET OF ALL HYPOTHESES CONSISTENT WITH THE TRAINING EXAMPLES.
